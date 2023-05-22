@@ -1,6 +1,6 @@
-##Hackathon 1 (24h)
+## Hackathon 1 (24h)
 
-#Aléactivité
+# Aléactivité
 
 Aléactivité est un projet permettant de trouver des activités en fonction d'une localisation et de la météo.
 
